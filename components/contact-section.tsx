@@ -51,7 +51,7 @@ export function ContactSection() {
             className="mt-10 opacity-0 duration-700 delay-300"
           >
             <a
-              href="mailto:contact@example.com"
+              href="mailto:sunahk0330@gmail.com?subject=[R&D 컨설팅 문의]"
               className="inline-flex items-center gap-3 rounded-xl border border-border bg-card px-8 py-4 text-sm font-medium text-card-foreground transition-all hover:border-accent/30 hover:shadow-lg hover:shadow-accent/5"
             >
               <Mail className="h-5 w-5 text-accent" />
